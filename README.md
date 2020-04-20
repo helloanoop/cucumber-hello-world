@@ -8,6 +8,7 @@ A set of simple BDD test cases using Cucumber implemented in JS
 
 ### Install
 ```bash
+# Install deps
 npm install
 
 # Chromedriver (For Debian)
