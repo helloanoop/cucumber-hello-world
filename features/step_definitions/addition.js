@@ -8,7 +8,6 @@ Given('the numbers are {int} and {int}', function (x, y) {
     calculator = new Calculator(x, y);
 });
 
-
 When('they are added together', function () {
   calculator.add();
 });
